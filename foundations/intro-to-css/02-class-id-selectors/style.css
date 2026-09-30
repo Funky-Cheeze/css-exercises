@@ -1,1 +1,17 @@
-/* Add CSS Styling */
+.odd-number {
+    background-color: rgba(197, 16, 92, 0.699);
+    font-family: 'Verdana', 'DejaVu Sans', 'sans serif';
+    font-size: large;
+}
+
+#even-number {
+    color: rgb(0, 225, 255);
+    font-size: 36px;
+}
+.super-odd {
+    font-size: 24px;
+}
+#even-super {
+    background-color: rgb(20, 211, 20);
+    font-weight: bold;
+}
